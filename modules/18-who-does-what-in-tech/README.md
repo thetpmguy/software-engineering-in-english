@@ -43,10 +43,9 @@ A **software engineer** (also called a **developer**) is the person who writes t
 that makes the product exist. On our film set, they're the camera operators, carpenters,
 and effects artists — the hands that physically make the thing.
 
-What do they do all day? Less typing than you'd guess. A typical day is a mix of:
-reading existing code (like reading the previous chapters before writing the next one),
-writing new code, reviewing teammates' work, fixing bugs, and talking — to each other,
-to designers, to the product manager — about what to build and how.
+What do they do all day? Less typing than you'd guess. A typical day mixes reading
+existing code, writing new code, reviewing teammates' work, fixing bugs, and talking —
+to each other, to designers, to the product manager — about what to build and how.
 
 You already know the main varieties from [Module 10](../10-anatomy-of-an-app/README.md):
 
@@ -203,7 +202,7 @@ One line each, as promised:
 ## 🎯 The squad: how these people actually sit together
 
 Companies don't pool everyone into one giant room. They form small units, often called
-**squads** (or simply "teams"): typically **4–8 engineers, one product manager, and one
+**squads** (or plain "teams"): typically **4–8 engineers, one product manager, and one
 designer**, who together *own* one area of the product — the search team, the payments
 team, the sign-up team.
 
@@ -377,8 +376,8 @@ And a field guide to meetings:
   **designers** architect the experience (UX) and decorate it (UI).
 - Around them: **QA** breaks things on purpose, **DevOps/SRE** keep the show running
   (including honest 3am **on-call**), the data trio reads tea leaves / builds crystal
-  balls / lays plumbing, **security** guards the doors, and writers, advocates, and
-  support engineers keep humans and software understanding each other.
+  balls / lays plumbing, and **security**, writers, advocates, and support engineers
+  guard the doors and keep humans and software understanding each other.
 - Work happens in **squads** (4–8 engineers + PM + designer) running two-week
   **sprints** with four rituals: **standup**, **planning**, **demo**, **retro** — plus a
   **board** of **tickets** fed by the **backlog**.

@@ -96,7 +96,7 @@ if you want one).
 |---|---|---|
 | **QA / testing** | you're detail-oriented and enjoy finding what's wrong (Module 09 felt fun) | Test real software deliberately; write sample bug reports; entry QA roles exist |
 | **Support engineering** | you like helping people and solving puzzles under light time pressure | Customer-facing experience + this course's vocabulary is the actual job spec |
-| **Technical writing** | you love explaining things clearly (teachers, nurses, lawyers shine here) | Write three explainers of something technical; that's a starter portfolio |
+| **Technical writing** | you love making complicated things make sense (teachers, nurses, lawyers shine here) | Write three explainers of something technical; that's a starter portfolio |
 | **Project coordination** | you're organized and like keeping many moving parts on schedule | Your existing coordination experience + Module 18's rituals vocabulary |
 | **Data analysis** | you already live in spreadsheets (accounting, operations, logistics) | The Excel→SQL bridge is real and walkable — you started it in [Module 12](../12-databases/README.md) |
 | **Product** | you loved Module 07 — users, priorities, deciding what matters | Do the capstone's PM track; PM-adjacent roles (support, analysis) feed into it |

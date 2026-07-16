@@ -77,7 +77,7 @@ doesn't require becoming a coder.**
 <details><summary>Show answer</summary>
 
 **Support engineering** (helping stuck users — patience and people-reading are the job)
-and **technical writing** (explaining clearly — the teacher's superpower). Tech
+and **technical writing** (making complicated things make sense — the teacher's superpower). Tech
 companies are full of vital roles that write little or no code: QA, project
 coordination, data analysis, product, design, developer marketing. For many
 career-changers these doors are closer *and* better-fitting — and the building is
