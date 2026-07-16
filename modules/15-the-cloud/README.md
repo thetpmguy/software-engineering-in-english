@@ -109,7 +109,7 @@ touch.
 | Level | Kitchen version | You handle | Example |
 |---|---|---|---|
 | Bare computers | Empty rented kitchen | Almost everything | A company running its own app on rented machines |
-| Managed platform | Kitchen with staff | Just your recipe (code) | A startup that only writes code, no machine-wrangling |
+| Managed platform | Kitchen with staff | Only your recipe (code) | A startup that only writes code, no machine-wrangling |
 | Finished software | Ordering the pizza | Nothing — you're the diner | Gmail, Netflix, Google Docs |
 
 ## 📈 Why everyone moved: the Black Friday problem
@@ -146,7 +146,7 @@ that stays on all the time so other computers can ask it for things.)
 piece of code and say "run this whenever someone clicks the button," and the cloud finds
 a computer, runs it, and bills you for the milliseconds used.
 
-> 🌉 **Analogy:** Owning a car versus taking taxis. Taxis obviously involve cars — but
+> 🌉 **Analogy:** Owning a car versus taking taxis. Taxis still involve cars — but
 > *you* never buy one, insure one, park one, or change its oil. A car materializes when
 > you need it and vanishes when you're done. "Serverless" is taxis for computing.
 >

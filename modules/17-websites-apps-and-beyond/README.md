@@ -77,7 +77,7 @@ tools like **React Native** and **Flutter** that let one codebase produce both a
 app and an Android app. One pattern, two suits. The honest price: small compromises —
 the fit is very good but rarely *perfect*, and unusual platform tricks can take extra
 work. For most apps, most users never notice. And a confession from inside the industry:
-some "apps" are secretly just websites wrapped in an app-shaped costume — a thin shell
+some "apps" are secretly plain websites wrapped in an app-shaped costume — a thin shell
 around a browser view. Fastest and cheapest of all; also the most likely to feel
 slightly "off."
 

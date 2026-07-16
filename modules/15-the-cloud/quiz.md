@@ -74,7 +74,7 @@ floods, the other two copies take over so quickly you never notice.
 
 False — there are always servers. "Serverless" means *you* never think about them: you
 hand over code, the cloud finds a machine, runs it, and bills you per use. Like taxis:
-cars are obviously involved, but you never buy, park, or maintain one.
+cars are involved every time, but you never buy, park, or maintain one.
 </details>
 
 **8. Your video call to a colleague on another continent has a slight delay, even with
