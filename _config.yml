@@ -1,0 +1,6 @@
+title: Software Engineering — The Easy Way
+description: A free, plain-English software engineering course for non-technical people — 19 modules, browser labs, quizzes, and a capstone.
+theme: jekyll-theme-cayman
+baseurl: "/software-engineering-the-easy-way"
+# GitHub Pages auto-enables jekyll-relative-links (rewrites .md links to in-site pages)
+# and jekyll-readme-index (serves each folder's README.md as its index page).
